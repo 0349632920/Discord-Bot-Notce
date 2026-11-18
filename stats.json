@@ -1,0 +1,11 @@
+{
+  "totalMessages": 142,
+  "spamDetected": 0,
+  "ignoredMessages": 0,
+  "startedAt": "2026-11-18T09:42:44.972Z",
+  "errors": null,
+  "received": 5,
+  "forwarded": 5,
+  "forwardedMessages": 142,
+  "discordToTikTok": 1
+}

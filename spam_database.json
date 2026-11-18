@@ -1,0 +1,113 @@
+{
+  "alerts": [
+    {
+      "userId": "7678613350482035713",
+      "username": "Không rõ",
+      "detectedAt": "2026-11-18T08:53:19.742Z",
+      "messageCount": 4,
+      "duplicateCount": 3,
+      "reasons": [
+        "Lặp lại nội dung 3 lần"
+      ],
+      "latestMessage": "d"
+    },
+    {
+      "senderId": "7678613350482035713",
+      "senderName": "TikTok User",
+      "reason": "5 tin nhắn trong 10 giây",
+      "text": "dddd",
+      "time": "2026-11-18T09:00:35.897Z"
+    },
+    {
+      "senderId": "7678613350482035713",
+      "senderName": "TikTok User",
+      "reason": "6 tin nhắn trong 10 giây",
+      "text": "dddd",
+      "time": "2026-11-18T09:00:35.901Z"
+    },
+    {
+      "senderId": "7678613350482035713",
+      "senderName": "TikTok User",
+      "reason": "7 tin nhắn trong 10 giây",
+      "text": "d",
+      "time": "2026-11-18T09:00:36.017Z"
+    },
+    {
+      "senderId": "7678613350482035713",
+      "senderName": "TikTok User",
+      "reason": "8 tin nhắn trong 10 giây",
+      "text": "ddddd",
+      "time": "2026-11-18T09:00:36.151Z"
+    },
+    {
+      "senderId": "7678613350482035713",
+      "senderName": "TikTok User",
+      "reason": "9 tin nhắn trong 10 giây",
+      "text": "f",
+      "time": "2026-11-18T09:00:43.517Z"
+    },
+    {
+      "senderId": "7678613350482035713",
+      "senderName": "TikTok User",
+      "reason": "10 tin nhắn trong 10 giây",
+      "text": "s",
+      "time": "2026-11-18T09:00:55.191Z"
+    },
+    {
+      "senderId": "7678613350482035713",
+      "senderName": "TikTok User",
+      "reason": "11 tin nhắn trong 10 giây",
+      "text": "s",
+      "time": "2026-11-18T09:00:55.853Z"
+    },
+    {
+      "senderId": "7678613350482035713",
+      "senderName": "TikTok User",
+      "reason": "12 tin nhắn trong 10 giây",
+      "text": "ss",
+      "time": "2026-11-18T09:00:56.296Z"
+    },
+    {
+      "senderId": "7678613350482035713",
+      "senderName": "TikTok User",
+      "reason": "13 tin nhắn trong 10 giây",
+      "text": "sss",
+      "time": "2026-11-18T09:00:56.608Z"
+    },
+    {
+      "senderId": "7678613350482035713",
+      "senderName": "TikTok User",
+      "reason": "14 tin nhắn trong 10 giây",
+      "text": "ssss",
+      "time": "2026-11-18T09:00:57.069Z"
+    },
+    {
+      "senderId": "7678613350482035713",
+      "senderName": "TikTok User",
+      "reason": "15 tin nhắn trong 10 giây",
+      "text": "s",
+      "time": "2026-11-18T09:00:57.498Z"
+    },
+    {
+      "senderId": "7678613350482035713",
+      "senderName": "TikTok User",
+      "reason": "16 tin nhắn trong 10 giây",
+      "text": "ss",
+      "time": "2026-11-18T09:00:57.947Z"
+    },
+    {
+      "senderId": "7678613350482035713",
+      "senderName": "TikTok User",
+      "reason": "17 tin nhắn trong 10 giây",
+      "text": "s",
+      "time": "2026-11-18T09:00:58.703Z"
+    },
+    {
+      "senderId": "7678613350482035713",
+      "senderName": "TikTok User",
+      "reason": "18 tin nhắn trong 10 giây",
+      "text": "ss",
+      "time": "2026-11-18T09:00:59.265Z"
+    }
+  ]
+}

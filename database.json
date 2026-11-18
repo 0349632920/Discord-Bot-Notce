@@ -1,0 +1,44 @@
+[
+  {
+    "id": "undefined",
+    "senderId": "7545863218444174353",
+    "username": "unknown",
+    "message": "Chơi với mày dễ ngu lắm",
+    "time": "2026-11-18T09:50:59.988Z"
+  },
+  {
+    "id": "undefined",
+    "senderId": "7678613350482035713",
+    "username": "unknown",
+    "message": "gf",
+    "time": "2026-11-18T09:53:35.930Z"
+  },
+  {
+    "id": "7709449609371223573",
+    "userId": "7678613350482035713",
+    "username": "unknown",
+    "text": "gfd",
+    "receivedAt": "2026-11-18T10:01:59.935Z"
+  },
+  {
+    "id": "7709449617486939656",
+    "userId": "7678613350482035713",
+    "username": "unknown",
+    "text": "d",
+    "receivedAt": "2026-11-18T10:02:02.598Z"
+  },
+  {
+    "id": "7709449632800343572",
+    "userId": "7678613350482035713",
+    "username": "unknown",
+    "text": "d",
+    "receivedAt": "2026-11-18T10:02:04.483Z"
+  },
+  {
+    "id": "7709449644039734836",
+    "userId": "7678613350482035713",
+    "username": "unknown",
+    "text": "f",
+    "receivedAt": "2026-11-18T10:02:06.155Z"
+  }
+]

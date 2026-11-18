@@ -1,0 +1,122 @@
+[16:34:50 18/11/2026] TikTok kết nối lỗi: TikTokError: Cookie has no sessionid
+    at TikTok.login (file:///D:/Discord/Tiktok%20Noice/node_modules/tca-js/dist/index.mjs:1065:13)
+    at connectTikTok (file:///D:/Discord/Tiktok%20Noice/bot.js:492:22)
+    at startBot (file:///D:/Discord/Tiktok%20Noice/bot.js:585:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[16:34:50 18/11/2026] TikTok kết nối lỗi: TikTokError: Cookie has no sessionid
+    at TikTok.login (file:///D:/Discord/Tiktok%20Noice/node_modules/tca-js/dist/index.mjs:1065:13)
+    at connectTikTok (file:///D:/Discord/Tiktok%20Noice/bot.js:492:22)
+    at reconnectLoop (file:///D:/Discord/Tiktok%20Noice/bot.js:517:19)
+    at startBot (file:///D:/Discord/Tiktok%20Noice/bot.js:586:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[16:35:06 18/11/2026] TikTok kết nối lỗi: TikTokError: Cookie has no sessionid
+    at TikTok.login (file:///D:/Discord/Tiktok%20Noice/node_modules/tca-js/dist/index.mjs:1065:13)
+    at connectTikTok (file:///D:/Discord/Tiktok%20Noice/bot.js:492:22)
+    at reconnectLoop (file:///D:/Discord/Tiktok%20Noice/bot.js:517:19)
+[16:35:21 18/11/2026] TikTok kết nối lỗi: TikTokError: Cookie has no sessionid
+    at TikTok.login (file:///D:/Discord/Tiktok%20Noice/node_modules/tca-js/dist/index.mjs:1065:13)
+    at connectTikTok (file:///D:/Discord/Tiktok%20Noice/bot.js:492:22)
+    at reconnectLoop (file:///D:/Discord/Tiktok%20Noice/bot.js:517:19)
+[16:35:36 18/11/2026] TikTok kết nối lỗi: TikTokError: Cookie has no sessionid
+    at TikTok.login (file:///D:/Discord/Tiktok%20Noice/node_modules/tca-js/dist/index.mjs:1065:13)
+    at connectTikTok (file:///D:/Discord/Tiktok%20Noice/bot.js:492:22)
+    at reconnectLoop (file:///D:/Discord/Tiktok%20Noice/bot.js:517:19)
+[16:35:52 18/11/2026] TikTok kết nối lỗi: TikTokError: Cookie has no sessionid
+    at TikTok.login (file:///D:/Discord/Tiktok%20Noice/node_modules/tca-js/dist/index.mjs:1065:13)
+    at connectTikTok (file:///D:/Discord/Tiktok%20Noice/bot.js:492:22)
+    at reconnectLoop (file:///D:/Discord/Tiktok%20Noice/bot.js:517:19)
+[16:38:23 18/11/2026] TikTok kết nối lỗi: TikTokError: Cookie has no sessionid
+    at TikTok.login (file:///D:/Discord/Tiktok%20Noice/node_modules/tca-js/dist/index.mjs:1065:13)
+    at connectTikTok (file:///D:/Discord/Tiktok%20Noice/bot.js:607:22)
+    at reconnectLoop (file:///D:/Discord/Tiktok%20Noice/bot.js:643:19)
+    at startBot (file:///D:/Discord/Tiktok%20Noice/bot.js:714:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[16:38:53 18/11/2026] TikTok kết nối lỗi: TikTokError: Cookie has no sessionid
+    at TikTok.login (file:///D:/Discord/Tiktok%20Noice/node_modules/tca-js/dist/index.mjs:1065:13)
+    at connectTikTok (file:///D:/Discord/Tiktok%20Noice/bot.js:607:22)
+    at reconnectLoop (file:///D:/Discord/Tiktok%20Noice/bot.js:643:19)
+[16:39:23 18/11/2026] TikTok kết nối lỗi: TikTokError: Cookie has no sessionid
+    at TikTok.login (file:///D:/Discord/Tiktok%20Noice/node_modules/tca-js/dist/index.mjs:1065:13)
+    at connectTikTok (file:///D:/Discord/Tiktok%20Noice/bot.js:607:22)
+    at reconnectLoop (file:///D:/Discord/Tiktok%20Noice/bot.js:643:19)
+[16:39:54 18/11/2026] TikTok kết nối lỗi: TikTokError: Cookie has no sessionid
+    at TikTok.login (file:///D:/Discord/Tiktok%20Noice/node_modules/tca-js/dist/index.mjs:1065:13)
+    at connectTikTok (file:///D:/Discord/Tiktok%20Noice/bot.js:607:22)
+    at reconnectLoop (file:///D:/Discord/Tiktok%20Noice/bot.js:643:19)
+[16:40:24 18/11/2026] TikTok kết nối lỗi: TikTokError: Cookie has no sessionid
+    at TikTok.login (file:///D:/Discord/Tiktok%20Noice/node_modules/tca-js/dist/index.mjs:1065:13)
+    at connectTikTok (file:///D:/Discord/Tiktok%20Noice/bot.js:607:22)
+    at reconnectLoop (file:///D:/Discord/Tiktok%20Noice/bot.js:643:19)
+[16:40:55 18/11/2026] TikTok kết nối lỗi: TikTokError: Cookie has no sessionid
+    at TikTok.login (file:///D:/Discord/Tiktok%20Noice/node_modules/tca-js/dist/index.mjs:1065:13)
+    at connectTikTok (file:///D:/Discord/Tiktok%20Noice/bot.js:607:22)
+    at reconnectLoop (file:///D:/Discord/Tiktok%20Noice/bot.js:643:19)
+[16:41:25 18/11/2026] TikTok kết nối lỗi: TikTokError: Cookie has no sessionid
+    at TikTok.login (file:///D:/Discord/Tiktok%20Noice/node_modules/tca-js/dist/index.mjs:1065:13)
+    at connectTikTok (file:///D:/Discord/Tiktok%20Noice/bot.js:607:22)
+    at reconnectLoop (file:///D:/Discord/Tiktok%20Noice/bot.js:643:19)
+[16:41:56 18/11/2026] TikTok kết nối lỗi: TikTokError: Cookie has no sessionid
+    at TikTok.login (file:///D:/Discord/Tiktok%20Noice/node_modules/tca-js/dist/index.mjs:1065:13)
+    at connectTikTok (file:///D:/Discord/Tiktok%20Noice/bot.js:607:22)
+    at reconnectLoop (file:///D:/Discord/Tiktok%20Noice/bot.js:643:19)
+[16:42:26 18/11/2026] TikTok kết nối lỗi: TikTokError: Cookie has no sessionid
+    at TikTok.login (file:///D:/Discord/Tiktok%20Noice/node_modules/tca-js/dist/index.mjs:1065:13)
+    at connectTikTok (file:///D:/Discord/Tiktok%20Noice/bot.js:607:22)
+    at reconnectLoop (file:///D:/Discord/Tiktok%20Noice/bot.js:643:19)
+[16:42:46 18/11/2026] TikTok kết nối lỗi: TikTokError: Cookie has no sessionid
+    at TikTok.login (file:///D:/Discord/Tiktok%20Noice/node_modules/tca-js/dist/index.mjs:1065:13)
+    at connectTikTok (file:///D:/Discord/Tiktok%20Noice/bot.js:732:22)
+    at reconnectLoop (file:///D:/Discord/Tiktok%20Noice/bot.js:781:19)
+    at startBot (file:///D:/Discord/Tiktok%20Noice/bot.js:867:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[16:43:16 18/11/2026] TikTok kết nối lỗi: TikTokError: Cookie has no sessionid
+    at TikTok.login (file:///D:/Discord/Tiktok%20Noice/node_modules/tca-js/dist/index.mjs:1065:13)
+    at connectTikTok (file:///D:/Discord/Tiktok%20Noice/bot.js:732:22)
+    at reconnectLoop (file:///D:/Discord/Tiktok%20Noice/bot.js:781:19)
+[2026-11-18T09:48:47.886Z] [TIKTOK CONNECT] TypeError: tiktokAPI.getOwnId(...).catch is not a function
+    at connectTikTok (file:///D:/Discord/Tiktok%20Noice/bot.js:653:55)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async main (file:///D:/Discord/Tiktok%20Noice/bot.js:708:9)
+[2026-11-18T10:05:42.127Z] DiscordAPIError[50035]: Invalid Form Body
+embeds[0].timestamp[DATE_TIME_TYPE_PARSE]: Could not parse +058851-03-03T14:46:07.000Z. Should be ISO8601.
+    at handleErrors (D:\Discord\Tiktok Noice\node_modules\@discordjs\rest\dist\index.js:791:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async SequentialHandler.runRequest (D:\Discord\Tiktok Noice\node_modules\@discordjs\rest\dist\index.js:1198:23)
+    at async SequentialHandler.queueRequest (D:\Discord\Tiktok Noice\node_modules\@discordjs\rest\dist\index.js:1029:14)
+    at async _REST.request (D:\Discord\Tiktok Noice\node_modules\@discordjs\rest\dist\index.js:1342:22)
+    at async TextChannel.send (D:\Discord\Tiktok Noice\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:195:15)
+    at async sendToDiscord (file:///D:/Discord/Tiktok%20Noice/bot.js:539:5)
+    at async handleTikTokMessage (file:///D:/Discord/Tiktok%20Noice/bot.js:611:22)
+[2026-11-18T10:10:02.283Z] DiscordjsTypeError [CommandInteractionOptionNotFound]: Required option "user" not found.
+    at CommandInteractionOptionResolver.get (D:\Discord\Tiktok Noice\node_modules\discord.js\src\structures\CommandInteractionOptionResolver.js:78:15)
+    at CommandInteractionOptionResolver._getTypedOption (D:\Discord\Tiktok Noice\node_modules\discord.js\src\structures\CommandInteractionOptionResolver.js:95:25)
+    at CommandInteractionOptionResolver.getString (D:\Discord\Tiktok Noice\node_modules\discord.js\src\structures\CommandInteractionOptionResolver.js:172:25)
+    at Client.<anonymous> (file:///D:/Discord/Tiktok%20Noice/bot.js:773:48)
+    at Client.emit (node:events:508:28)
+    at InteractionCreateAction.handle (D:\Discord\Tiktok Noice\node_modules\discord.js\src\client\actions\InteractionCreate.js:103:12)
+    at module.exports [as INTERACTION_CREATE] (D:\Discord\Tiktok Noice\node_modules\discord.js\src\client\websocket\handlers\INTERACTION_CREATE.js:4:36)
+    at WebSocketManager.handlePacket (D:\Discord\Tiktok Noice\node_modules\discord.js\src\client\websocket\WebSocketManager.js:352:31)
+    at WebSocketManager.<anonymous> (D:\Discord\Tiktok Noice\node_modules\discord.js\src\client\websocket\WebSocketManager.js:236:12)
+    at WebSocketManager.emit (D:\Discord\Tiktok Noice\node_modules\@vladfrangu\async_event_emitter\dist\index.cjs:2504:31)
+[2026-11-18T10:29:27.612Z] Lỗi gửi Discord sang TikTok: /v1/message/send: gateway status_code 7 — session blocked
+[2026-11-18T10:30:30.939Z] Lỗi gửi Discord sang TikTok: /v1/message/send: gateway status_code 7 — session blocked
+[2026-11-18T10:35:37.858Z] Lỗi gửi Discord sang TikTok: /v1/message/send: gateway status_code 7 — session blocked
+[2026-11-18T10:39:55.688Z] Đã tạm dừng gửi Discord -> TikTok: /v1/message/send: gateway status_code 7 — session blocked
+[2026-11-18T10:41:41.484Z] Lỗi kết nối TikTok: TikTok cookie is no longer logged in
+[2026-11-18T10:47:57.732Z] Đã tạm dừng gửi Discord -> TikTok: /v1/message/send: gateway status_code 7 — session blocked
+[2026-11-18T11:32:20.015Z] Lỗi gửi Discord sang TikTok: /v1/message/send: gateway JSON status_code undefined
+[2026-11-18T11:33:14.573Z] AggregateError [ETIMEDOUT]: 
+    at internalConnectMultiple (node:net:1142:49)
+    at afterConnectMultiple (node:net:1723:7)
+[2026-11-18T11:35:26.062Z] Tạm dừng Discord -> TikTok: /v1/message/send: gateway status_code 7 — session blocked
+[2026-11-18T12:18:04.032Z] DiscordjsTypeError [CommandInteractionOptionNotFound]: Required option "user" not found.
+    at CommandInteractionOptionResolver.get (D:\Discord\Tiktok Noice\node_modules\discord.js\src\structures\CommandInteractionOptionResolver.js:78:15)
+    at CommandInteractionOptionResolver._getTypedOption (D:\Discord\Tiktok Noice\node_modules\discord.js\src\structures\CommandInteractionOptionResolver.js:95:25)
+    at CommandInteractionOptionResolver.getString (D:\Discord\Tiktok Noice\node_modules\discord.js\src\structures\CommandInteractionOptionResolver.js:172:25)
+    at Client.<anonymous> (file:///D:/Discord/Tiktok%20Noice/bot.js:1175:42)
+    at Client.emit (node:events:508:28)
+    at InteractionCreateAction.handle (D:\Discord\Tiktok Noice\node_modules\discord.js\src\client\actions\InteractionCreate.js:103:12)
+    at module.exports [as INTERACTION_CREATE] (D:\Discord\Tiktok Noice\node_modules\discord.js\src\client\websocket\handlers\INTERACTION_CREATE.js:4:36)
+    at WebSocketManager.handlePacket (D:\Discord\Tiktok Noice\node_modules\discord.js\src\client\websocket\WebSocketManager.js:352:31)
+    at WebSocketManager.<anonymous> (D:\Discord\Tiktok Noice\node_modules\discord.js\src\client\websocket\WebSocketManager.js:236:12)
+    at WebSocketManager.emit (D:\Discord\Tiktok Noice\node_modules\@vladfrangu\async_event_emitter\dist\index.cjs:2504:31)
